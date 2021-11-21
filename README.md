@@ -15,5 +15,8 @@
 
 ##  Discord Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/610832153776881685)](https://discord.com/users/610832153776881685)
+<div align="center">
 
+    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/610832153776881685)](https://discord.com/users/610832153776881685)
+
+</div>
