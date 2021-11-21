@@ -13,8 +13,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 </div>
 
+<h2 align="center">Discord Activity</h2>
 
-##  Discord Activity
 <div align="center">
 
     
