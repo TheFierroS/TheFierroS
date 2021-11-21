@@ -8,10 +8,11 @@
 
 
 ## Github Stats
+<details align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+</details>
 
-![GitHub metrics](https://metrics.lecoq.io/TheFierroS?languages=1&gists=1&followup=1)
-
-![visits](https://komarev.com/ghpvc/?username=TheFierroS)
 
 ##  Discord Activity
 <div align="center">
