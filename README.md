@@ -6,8 +6,8 @@
   
 </p>
 
+<h2 align="center">Github Stats</h2>
 
-## Github Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
