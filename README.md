@@ -16,7 +16,6 @@
 ##  Discord Activity
 <div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L15V33S)
     
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/610832153776881685)](https://discord.com/users/610832153776881685)  
     
