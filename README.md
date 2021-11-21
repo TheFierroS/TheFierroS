@@ -14,6 +14,6 @@
 ![visits](https://komarev.com/ghpvc/?username=TheFierroS)
 
 ##  Discord Activity
-<div style="align-items: center;">
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/610832153776881685)](https://discord.com/users/610832153776881685)
-</div>
+
