@@ -1,23 +1,60 @@
-<h1 align="center">Welcome to my profile 👋</h1>
-<h2 align="center">I am TheFierroS</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/610832153776881685" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00EF&width=435&lines=Welcome+to+TheFierroS's+Github+Page+!;Code.+Patient.+Passion." alt="Typing SVG" />
 </p>
 
-<h2 align="center">Github Stats</h2>
+<h1 align="center">Hey there 👋, I'm <span style="color:#0af;">TheFierroS</span></h1>
+<p align="center">🚀 Full Stack Enthusiast | 🎮 Gamer | 🔥 Always Learning</p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-</div>
+---
 
-<h2 align="center">Discord Activity</h2>
+## 🧑‍💻 About Me
 
-<div align="center">
+- 🔭 Currently working on **cool open-source projects**
+- 🌱 Learning **cutting-edge web tech**
 
-    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/610832153776881685)](https://discord.com/users/610832153776881685)  
-    
-</div>
+## ⚡ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Raksix&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=neon)" height="160px"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Raksix&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=neon)" height="160px"/>
+  <br>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Raksix&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=TheFierroS&theme=neon)" height="120px"/>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="[https://github-profile-trophy.vercel.app/?username=Raksix&theme=tokyonight&row=1](https://github-profile-trophy.vercel.app/?username=TheFierroS&theme=dracula&row=1)" />
+</p>
+
+---
+
+## 🌐 Visitor Counter
+
+<p align="center">
+  <img src="[https://count.getloli.com/get/@Raksix?theme=moebooru](https://count.getloli.com/@TheFierroS?name=TheFierroS&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" alt="visitor count"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+</p>
