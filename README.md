@@ -49,7 +49,7 @@
 ## 🌐 Visitor Counter
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Raksix?theme=moebooru](https://count.getloli.com/@TheFierroS?name=TheFierroS&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" alt="visitor count"/>
+  <img src="https://count.getloli.com/@TheFierroS?name=TheFierroS&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count"/>
 </p>
 
 ---
