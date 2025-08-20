@@ -30,10 +30,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Raksix&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=neon)" height="160px"/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Raksix&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=neon)" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raksix&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=neon)" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksix&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=neon)" height="160px"/>
   <br>
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Raksix&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=TheFierroS&theme=neon)" height="120px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raksix&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=TheFierroS&theme=neon)" height="120px"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=Raksix&theme=tokyonight&row=1](https://github-profile-trophy.vercel.app/?username=TheFierroS&theme=dracula&row=1)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raksix&theme=tokyonight&row=1](https://github-profile-trophy.vercel.app/?username=TheFierroS&theme=dracula&row=1)" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🌐 Visitor Counter
 
 <p align="center">
-  <img src="[https://count.getloli.com/get/@Raksix?theme=moebooru](https://count.getloli.com/@TheFierroS?name=TheFierroS&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" alt="visitor count"/>
+  <img src="https://count.getloli.com/get/@Raksix?theme=moebooru](https://count.getloli.com/@TheFierroS?name=TheFierroS&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" alt="visitor count"/>
 </p>
 
 ---
