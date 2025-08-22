@@ -41,7 +41,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raksix&theme=tokyonight&row=1](https://github-profile-trophy.vercel.app/?username=TheFierroS&theme=dracula&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheFierroS&theme=dracula&row=1" />
 </p>
 
 ---
