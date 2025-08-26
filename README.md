@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=neon&cache_seconds=86400" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=neon&cache_seconds=86400" height="160px"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFierroS&theme=neon" height="120px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheFierroS&theme=neon&date_format=M%20j%5B%2C%20Y%5D" height="120px"/>
 </p>
 
 ---
