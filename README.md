@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=neon" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFierroS&show_icons=true&theme=neon&cache_seconds=86400" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFierroS&layout=compact&theme=neon&cache_seconds=86400" height="160px"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFierroS&theme=neon" height="120px"/>
