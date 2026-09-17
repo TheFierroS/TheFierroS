@@ -88,7 +88,7 @@ class TheFierroS:
 
 <div align="center">
 <a href="https://github.com/TheFierroS/elenchus">
-  <img width="70%" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=elenchus&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=3" />
+  <img width="460" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=elenchus&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=3" />
 </a>
 </div>
 
@@ -107,10 +107,10 @@ binary ──▶ Ghidra extraction ──▶ append-only event log
 
 <div align="center">
 
-<a href="https://github.com/TheFierroS/askesis"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=askesis&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
-<a href="https://github.com/TheFierroS/port_scanner"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=port_scanner&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
-<a href="https://github.com/TheFierroS/all_in_one_tool"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=all_in_one_tool&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
-<a href="https://github.com/TheFierroS/Inklens_Note_App"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=Inklens_Note_App&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
+<a href="https://github.com/TheFierroS/askesis"><img width="380" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=askesis&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
+<a href="https://github.com/TheFierroS/port_scanner"><img width="380" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=port_scanner&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
+<a href="https://github.com/TheFierroS/all_in_one_tool"><img width="380" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=all_in_one_tool&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
+<a href="https://github.com/TheFierroS/Inklens_Note_App"><img width="380" src="https://github-stats-extended.vercel.app/api/pin/?username=TheFierroS&repo=Inklens_Note_App&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&description_lines_count=2" /></a>
 
 </div>
 
@@ -118,10 +118,10 @@ binary ──▶ Ghidra extraction ──▶ append-only event log
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=TheFierroS&show_icons=true&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&ring_color=FF3DF2&rank_icon=github&include_all_commits=true" />
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheFierroS&layout=donut&langs_count=6&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&text_color=D9CBE8" />
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=TheFierroS&show_icons=true&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&icon_color=FFD43B&text_color=D9CBE8&ring_color=FF3DF2&rank_icon=github&include_all_commits=true" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheFierroS&layout=donut&langs_count=6&hide_border=true&border_radius=6&bg_color=0E0A1A&title_color=FF3DF2&text_color=D9CBE8" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=TheFierroS&hide_border=true&border_radius=6&background=0E0A1A&ring=FF3DF2&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3DF2&sideLabels=D9CBE8&dates=8F7BA6&stroke=2A0F3D" />
+<img width="440" src="https://streak-stats.demolab.com?user=TheFierroS&hide_border=true&border_radius=6&background=0E0A1A&ring=FF3DF2&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3DF2&sideLabels=D9CBE8&dates=8F7BA6&stroke=2A0F3D" />
 
 </div>
 
@@ -138,7 +138,7 @@ binary ──▶ Ghidra extraction ──▶ append-only event log
 <br/>
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=0E0A1A&textColor=D9CBE8&aColor=FF3DF2&qColor=FFD43B" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230E0A1A&textColor=%23D9CBE8&aColor=%23FF3DF2&qColor=%23FFD43B" width="400" />
 <br/><br/>
 <img src="https://count.getloli.com/@TheFierroS?name=TheFierroS&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count" />
 </div>
